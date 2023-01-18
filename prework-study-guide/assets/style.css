@@ -7,7 +7,7 @@
    footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
+    background-color: rgb(130, 60, 170);
     color: white;
    }
    
@@ -36,6 +36,6 @@
    .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid rgb(145, 127, 161);
     box-shadow: 5px 10px #888888;
   }
